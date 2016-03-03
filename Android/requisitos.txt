@@ -1,0 +1,15 @@
+==========================================
+==        Grito - Casos de Uso          ==
+==========================================
+
+-O usuário deverá ser capaz de enviar mensagem
+para o Grito.
+
+-Uma mensagem enviada para o Grito deverá ser
+entregue a todos os usuários que estiverem 
+com uma sessão aberta com o Grito e
+dentro um raio de distância pré-determinado.
+
+-O usuário A que deixar o raio de distância
+pré-determinado de um usuário B não receberá
+mais as mensagens deste.
